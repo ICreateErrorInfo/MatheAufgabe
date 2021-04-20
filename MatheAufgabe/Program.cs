@@ -22,7 +22,6 @@ namespace MatheAufgabe
             Console.Write("");
 
 
-
             Console.WriteLine("a)");
             Console.WriteLine("");
             drehenRechts(a, b, c);
